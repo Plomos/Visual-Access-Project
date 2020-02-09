@@ -9,7 +9,6 @@ Jack in the box
 Jason's Deli
 McDonald's
 Nothing Buntcakes
-Salada
 Taco Bell
 Taco Cabana
 Wendy's
@@ -27,6 +26,7 @@ Los Cucos College Station
 Napa Flats
 Paolo's Italian Kitchen College Station
 Piada Italian Street Food College Station
+Salata
 Star Cinema Grill
 Raising Canes
 Sonic
